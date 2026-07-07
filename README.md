@@ -1,0 +1,1 @@
+Designed and deployed an AI chatbot on IBM Cloud and developed a stock price prediction model with effective visualizations. Improved technical fluency in AI/ML workflows, connecting backend logic with intuitive user experiences.
